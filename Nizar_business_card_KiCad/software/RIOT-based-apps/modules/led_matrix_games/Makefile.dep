@@ -1,4 +1,0 @@
-USEMODULE += bitmap_fonts
-USEMODULE += button_matrix
-USEMODULE += fmt
-USEMODULE += led_matrix

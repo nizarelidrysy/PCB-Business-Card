@@ -1,2 +1,0 @@
-USEMODULE_INCLUDES_led_matrix_games := $(LAST_MAKEFILEDIR)/include
-USEMODULE_INCLUDES += $(USEMODULE_INCLUDES_led_matrix_games)

@@ -1,3 +1,0 @@
-ifeq (,$(filter stdio_%,$(USEMODULE)))
-  USEMODULE += stdio_fb
-endif

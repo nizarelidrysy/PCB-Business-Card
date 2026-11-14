@@ -1,3 +1,0 @@
-FEATURES_REQUIRED += periph_gpio_ll
-FEATURES_REQUIRED += periph_gpio_ll_switch_dir
-FEATURES_REQUIRED += periph_gpio_ll_input_pull_down
